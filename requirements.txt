@@ -1,0 +1,78 @@
+antlr4-python3-runtime @ file:///home/conda/feedstock_root/build_artifacts/antlr-python-runtime_1602352148784/work
+argcomplete==1.12.2
+boto==2.49.0
+certifi==2020.12.5
+cffi==1.14.5
+chardet==4.0.0
+cloudpickle==1.6.0
+crcmod==1.7
+cryptography==3.4.6
+cycler==0.10.0
+Cython @ file:///home/conda/feedstock_root/build_artifacts/cython_1602367301152/work
+dataclasses==0.6
+deepspeed==0.3.13
+fasteners==0.16
+future==0.18.2
+gcs-oauth2-boto-plugin==2.7
+google-apitools==0.5.31
+google-reauth==0.1.1
+gsutil==4.59
+gym==0.18.0
+h5py==3.2.1
+httplib2==0.19.0
+hydra-core @ file:///home/conda/feedstock_root/build_artifacts/hydra-core_1612474157885/work
+idna==2.10
+importlib-resources @ file:///home/conda/feedstock_root/build_artifacts/importlib_resources_1614892568736/work
+joblib==1.0.1
+kiwisolver @ file:///tmp/build/80754af9/kiwisolver_1612281846643/work
+learn2learn==0.1.5
+matplotlib @ file:///tmp/build/80754af9/matplotlib-suite_1613407855456/work
+mkl-fft==1.2.0
+mkl-random==1.0.2
+mkl-service==2.3.0
+mock==2.0.0
+monotonic==1.5
+ninja==1.10.0.post2
+numpy==1.20.1
+oauth2client==4.1.3
+olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
+omegaconf @ file:///home/conda/feedstock_root/build_artifacts/omegaconf_1611111126679/work
+ordered-set==4.0.2
+pandas==1.2.3
+pbr==5.5.1
+Pillow==7.2.0
+portalocker==2.0.0
+protobuf==3.15.6
+psutil==5.8.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycparser==2.20
+pyglet==1.5.0
+pynvml==8.0.4
+pyOpenSSL==20.0.1
+pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
+pytz==2021.1
+pyu2f==0.1.5
+PyYAML==5.3.1
+regex @ file:///home/conda/feedstock_root/build_artifacts/regex_1605270928517/work
+requests==2.25.1
+retry-decorator==1.1.1
+rsa==4.7.2
+sacrebleu==1.5.1
+scikit-learn==0.24.1
+scipy==1.6.1
+seaborn==0.11.1
+sip==4.19.13
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+tensorboardX==1.8
+threadpoolctl==2.1.0
+torch==1.7.1
+torchaudio==0.8.0a0+a751e1d
+torchmeta==1.6.1
+torchvision==0.8.2
+tornado @ file:///tmp/build/80754af9/tornado_1606942317143/work
+tqdm==4.59.0
+typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1602702424206/work
+urllib3==1.26.3
+xlrd==2.0.1
